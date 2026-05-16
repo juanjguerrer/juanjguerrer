@@ -33,3 +33,8 @@ Spanish (native) · English (C1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Guerrero-blue?logo=linkedin)](https://www.linkedin.com/in/juanguerrer)
 📧 jjguerrerog02@gmail.com
+
+## 📊 GitHub Stats
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjguerrer&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjguerrer&layout=compact)
