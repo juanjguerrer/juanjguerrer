@@ -22,8 +22,8 @@ Mechatronics Engineer & Software Developer based in Mexico 🇲🇽 — building
 ## 📌 Featured Projects
 
 - 🤖 [Create 3 Robot Control](https://github.com/juanjguerrer/create_3_control) — Autonomous warehouse-style navigation with MiDaS depth estimation on Raspberry Pi 5
-- *(Add link)* 🌿 Environmental Monitoring App — Cross-platform Flutter + Python/MongoDB backend for community sensor data
-- *(Add link)* 🏭 IoT Industrial Plant Monitor — Multi-sensor system with C# + Firebase
+- 🌿 Environmental Monitoring App — Cross-platform Flutter + Python/MongoDB backend for community sensor data
+- 🏭 IoT Industrial Plant Monitor — Multi-sensor system with C# + Firebase
 
 ## 🌎 Languages
 
