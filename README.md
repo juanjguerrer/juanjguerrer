@@ -9,18 +9,20 @@ Mechatronics Engineer & Software Developer based in Mexico 🇲🇽 — building
 - Deliver real-time dashboards with **WebSockets / MQTT** for plant-floor telemetry
 - Bring 4+ years of Python to automation, computer vision and scripting
 - Strong foundations in **information security** (Texas Tech CS 5340 — grade A)
-
+- Build **LLM tool-calling agents** (Claude API) that query real systems and report on them
+- 
 ## 🛠️ Tech Stack
 
 **Frontend:** Angular · TypeScript · RxJS · Angular Material · HTML5 / CSS3  
-**Backend & APIs:** C# / .NET · GraphQL · REST · Python · Django · Firebase  
-**Data & Realtime:** SQL · MongoDB · WebSockets · MQTT  
-**DevOps:** Git · Docker · Linux server administration  
+**Backend & APIs:** C# / .NET · GraphQL · REST · Python · Django · Firebase · Node.js · Apollo Server
+**Data & Realtime:** PostgreSQL · MongoDB · WebSockets · MQTT  
+**DevOps:** Git · Docker · Linux server administration · GitHub Actions · CI/CD
 **Industry 4.0 / MES:** Andon · OEE · Kanban · WIP · plant-floor dashboards  
+**AI:** Claude API · tool-calling agents · prompt design
 **Also familiar with:** Flutter · ROS 2 · Raspberry Pi · Computer Vision (MiDaS)
 
 ## 📌 Featured Projects
-
+- 📡 [Sensor Monitor](https://github.com/juanjguerrer/sensor-monitor) — GraphQL + PostgreSQL sensor platform with an Angular 22 front-end and a Claude tool-calling agent that reports on the fleet daily
 - 🤖 [Create 3 Robot Control](https://github.com/juanjguerrer/create_3_control) — Autonomous warehouse-style navigation with MiDaS depth estimation on Raspberry Pi 5
 - 🌿 Environmental Monitoring App — Cross-platform Flutter + Python/MongoDB backend for community sensor data
 - 🏭 IoT Industrial Plant Monitor — Multi-sensor system with C# + Firebase
