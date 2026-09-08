@@ -10,7 +10,7 @@ Mechatronics Engineer & Software Developer based in Mexico 🇲🇽 — building
 - Bring 4+ years of Python to automation, computer vision and scripting
 - Strong foundations in **information security** (Texas Tech CS 5340 — grade A)
 - Build **LLM tool-calling agents** (Claude API) that query real systems and report on them
-- 
+  
 ## 🛠️ Tech Stack
 
 **Frontend:** Angular · TypeScript · RxJS · Angular Material · HTML5 / CSS3  
